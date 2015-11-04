@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="500"
+	maxImageHeight="670"
+	imageQuality="99"
+	resizeOnImport="false"
+	galleryTitle=""
+	backgroundColor="rgba(255,255,255,0)"
+	textColor="rgba(204,204,204,1)"
+	thumbFrameColor="rgba(204,204,204,.5)"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	showOpenButton="true"
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/Cabinet Heart.jpg"
+	thumbURL="thumbs/Cabinet Heart.jpg"
+	linkURL="images/Cabinet Heart.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Cabinet Heart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cabinet Heart2.jpg"
+	thumbURL="thumbs/Cabinet Heart2.jpg"
+	linkURL="images/Cabinet Heart2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Cabinet Heart2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cabinet Heart3.jpg"
+	thumbURL="thumbs/Cabinet Heart3.jpg"
+	linkURL="images/Cabinet Heart3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Cabinet Heart3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Castle.jpg"
+	thumbURL="thumbs/Castle.jpg"
+	linkURL="images/Castle.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Castle]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Castle2.jpg"
+	thumbURL="thumbs/Castle2.jpg"
+	linkURL="images/Castle2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Castle2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cats.jpg"
+	thumbURL="thumbs/Cats.jpg"
+	linkURL="images/Cats.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Cats]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

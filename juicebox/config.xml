@@ -15,49 +15,375 @@
 	useThumbDots="false"
 	useFullscreenExpand="true"
 	showOpenButton="true"
-	indexPageName="gallery.html"
+	indexPageName="gallery.html"	
 
 >
+  <image imageURL="images/sphynx.jpg"
+	thumbURL="thumbs/sphynx.jpg"
+	linkURL="images/sphynx.jpg"
+	linkTarget="_blank"
+	sourcePath="images/sphynx.JPG">
+    <title><![CDATA[Sphynx]]></title>
+    <caption><![CDATA[36'' x48'' $2,400 original]]></caption>
+  </image>
+  <image imageURL="images/sphynx_collection.jpg"
+	thumbURL="thumbs/sphynx_collection.jpg"
+	linkURL="images/sphynx_collection.jpg"
+	linkTarget="_blank"
+	sourcePath="images/sphynx_collection.JPG">
+    <title><![CDATA[Sphynx Collection]]></title>
+    <caption><![CDATA[24'' x 48'' $1,600 each original]]></caption>
+  </image>
+  <image imageURL="images/natures_nest.jpg"
+	thumbURL="thumbs/natures_nest.jpg"
+	linkURL="images/natures_nest.jpg"
+	linkTarget="_blank"
+	sourcePath="images/natures_nest.JPG">
+    <title><![CDATA[Nature's Nest]]></title>
+    <caption><![CDATA[24'' x 36'' $1,800 original]]></caption>
+  </image>
+  <image imageURL="images/little_prince_caterpillar.jpg"
+	thumbURL="thumbs/little_prince_caterpillar.jpg"
+	linkURL="images/little_prince_caterpillar.jpg"
+	linkTarget="_blank"
+	sourcePath="images/little_prince_caterpillar.JPG">
+    <title><![CDATA[Little Prince Caterpillar]]></title>
+    <caption><![CDATA[36'' x 48'' $1,800 original]]></caption>
+  </image>
+  <image imageURL="images/picnic_with_food.jpg"
+	thumbURL="thumbs/picnic_with_food.jpg"
+	linkURL="images/picnic_with_food.jpg"
+	linkTarget="_blank"
+	sourcePath="images/picnic_with_food.JPG">
+    <title><![CDATA[Picnic with Food]]></title>
+    <caption><![CDATA[36'' x 48'' $1,800 original]]></caption>
+  </image>
+  <image imageURL="images/chess_queen.jpg"
+	thumbURL="thumbs/chess_queen.jpg"
+	linkURL="images/chess_queen.jpg"
+	linkTarget="_blank"
+	sourcePath="images/chess_queen.JPG">
+    <title><![CDATA[Chess Queen]]></title>
+    <caption><![CDATA[36'' x 48'' $1,800 original]]></caption>
+  </image>
+  <image imageURL="images/worldly_hat.jpg"
+	thumbURL="thumbs/worldly_hat.jpg"
+	linkURL="images/worldly_hat.jpg"
+	linkTarget="_blank"
+	sourcePath="images/worldly_hat.JPG">
+    <title><![CDATA[Wordly Hat]]></title>
+    <caption><![CDATA[36'' x 48'' $1,600 original]]></caption>
+  </image>
   <image imageURL="images/Cabinet Heart.jpg"
 	thumbURL="thumbs/Cabinet Heart.jpg"
 	linkURL="images/Cabinet Heart.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[Cabinet Heart]]></title>
-    <caption><![CDATA[]]></caption>
+	linkTarget="_blank"
+	sourcePath="images/Cabinet Heart.jpg">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
+    <caption><![CDATA[36'' x 48'' ]]></caption>
   </image>
   <image imageURL="images/Cabinet Heart2.jpg"
 	thumbURL="thumbs/Cabinet Heart2.jpg"
 	linkURL="images/Cabinet Heart2.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[Cabinet Heart2]]></title>
+	linkTarget="_blank"
+	sourcePath="images/Cabinet Heart2.jpg">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cabinet_Heart.jpg"
+	thumbURL="thumbs/Cabinet_Heart.jpg"
+	linkURL="images/Cabinet_Heart.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Cabinet_Heart.JPG">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cabinet_Heart2.jpg"
+	thumbURL="thumbs/Cabinet_Heart2.jpg"
+	linkURL="images/Cabinet_Heart2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Cabinet_Heart2.JPG">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Cabinet Heart3.jpg"
 	thumbURL="thumbs/Cabinet Heart3.jpg"
 	linkURL="images/Cabinet Heart3.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[Cabinet Heart3]]></title>
+	linkTarget="_blank"
+	sourcePath="images/Cabinet Heart3.jpg">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cabinet_Heart3.jpg"
+	thumbURL="thumbs/Cabinet_Heart3.jpg"
+	linkURL="images/Cabinet_Heart3.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Cabinet_Heart3.jpg">
+    <title><![CDATA[A Cabinet to the Heart]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Castle.jpg"
 	thumbURL="thumbs/Castle.jpg"
 	linkURL="images/Castle.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[Castle]]></title>
+	linkTarget="_blank"
+	sourcePath="images/Castle.jpg">
+    <title><![CDATA[The Castle]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Castle2.jpg"
 	thumbURL="thumbs/Castle2.jpg"
 	linkURL="images/Castle2.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[Castle2]]></title>
+	linkTarget="_blank"
+	sourcePath="images/Castle2.jpg">
+    <title><![CDATA[The Castle (zoom)]]></title>
     <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Daphne.jpg"
+	thumbURL="thumbs/Daphne.jpg"
+	linkURL="images/Daphne.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Daphne.jpg">
+    <title><![CDATA[Daphne 1]]></title>
+    <caption><![CDATA[24'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Daphne2.jpg"
+	thumbURL="thumbs/Daphne2.jpg"
+	linkURL="images/Daphne2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Daphne2.jpg">
+    <title><![CDATA[Daphne 2]]></title>
+    <caption><![CDATA[24'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Embroidering_the_Earths_Mantle.jpg"
+	thumbURL="thumbs/Embroidering_the_Earths_Mantle.jpg"
+	linkURL="images/Embroidering_the_Earths_Mantle.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Embroidering_the_Earths_Mantle.jpg">
+    <title><![CDATA[Embroidering the Earth's Mantle]]></title>
+    <caption><![CDATA[36'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Leda.jpg"
+	thumbURL="thumbs/Leda.jpg"
+	linkURL="images/Leda.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Leda.jpg">
+    <title><![CDATA[Leda]]></title>
+    <caption><![CDATA[30'' x 40'']]></caption>
+  </image>
+  <image imageURL="images/the_muses.jpg"
+	thumbURL="thumbs/the_muses.jpg"
+	linkURL="images/the_muses.jpg"
+	linkTarget="_blank"
+	sourcePath="images/the_muses.JPG">
+    <title><![CDATA[The Muses]]></title>
+    <caption><![CDATA[20'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/Mending_Heart.jpg"
+	thumbURL="thumbs/Mending_Heart.jpg"
+	linkURL="images/Mending_Heart.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Mending_Heart.JPG">
+    <title><![CDATA[Mending Heart]]></title>
+    <caption><![CDATA[24'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/red_jacket.jpg"
+	thumbURL="thumbs/red_jacket.jpg"
+	linkURL="images/red_jacket.jpg"
+	linkTarget="_blank"
+	sourcePath="images/red_jacket.JPG">
+    <title><![CDATA[Red Jacket]]></title>
+    <caption><![CDATA[24'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/Restoration.jpg"
+	thumbURL="thumbs/Restoration.jpg"
+	linkURL="images/Restoration.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Restoration.JPG">
+    <title><![CDATA[Restoration]]></title>
+    <caption><![CDATA[24'' x 26'']]></caption>
+  </image>
+  <image imageURL="images/Taking_Measures.jpg"
+	thumbURL="thumbs/Taking_Measures.jpg"
+	linkURL="images/Taking_Measures.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Taking_Measures.JPG">
+    <title><![CDATA[Taking Measures]]></title>
+    <caption><![CDATA[24'' x 36'']]></caption>
+  </image>
+  <image imageURL="images/The_Secret.jpg"
+	thumbURL="thumbs/The_Secret.jpg"
+	linkURL="images/The_Secret.jpg"
+	linkTarget="_blank"
+	sourcePath="images/The_Secret.jpg">
+    <title><![CDATA[The Secret]]></title>
+    <caption><![CDATA[24'' x 36'']]></caption>
+  </image>
+  <image imageURL="images/The_Secret2.jpg"
+	thumbURL="thumbs/The_Secret2.jpg"
+	linkURL="images/The_Secret2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/The_Secret2.JPG">
+    <title><![CDATA[The Secret (zoom)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/The_Wait.jpg"
+	thumbURL="thumbs/The_Wait.jpg"
+	linkURL="images/The_Wait.jpg"
+	linkTarget="_blank"
+	sourcePath="images/The_Wait.jpg">
+    <title><![CDATA[The Wait]]></title>
+    <caption><![CDATA[24'' x 36'']]></caption>
+  </image>
+  <image imageURL="images/The_Wait2.jpg"
+	thumbURL="thumbs/The_Wait2.jpg"
+	linkURL="images/The_Wait2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/The_Wait2.JPG">
+    <title><![CDATA[The Wait (zoom)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/The_Wait3.jpg"
+	thumbURL="thumbs/The_Wait3.jpg"
+	linkURL="images/The_Wait3.jpg"
+	linkTarget="_blank"
+	sourcePath="images/The_Wait3.JPG">
+    <title><![CDATA[The Wait (zoom)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Arlequin.jpg"
+	thumbURL="thumbs/Arlequin.jpg"
+	linkURL="images/Arlequin.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Arlequin.jpg">
+    <title><![CDATA[Arlequin]]></title>
+    <caption><![CDATA[36'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Little_Prince.jpg"
+	thumbURL="thumbs/Little_Prince.jpg"
+	linkURL="images/Little_Prince.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Little_Prince.jpg">
+    <title><![CDATA[Little Prince]]></title>
+    <caption><![CDATA[36'' x 48 '']]></caption>
+  </image>
+  <image imageURL="images/Ochun_Twins.jpg"
+	thumbURL="thumbs/Ochun_Twins.jpg"
+	linkURL="images/Ochun_Twins.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Ochun_Twins.jpg">
+    <title><![CDATA[Ochun and her Twins]]></title>
+    <caption><![CDATA[36'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Before Sunrise.jpg"
+	thumbURL="thumbs/Before Sunrise.jpg"
+	linkURL="images/Before Sunrise.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Before Sunrise.jpg">
+    <title><![CDATA[Before Sunrise]]></title>
+    <caption><![CDATA[36'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Tropical Mermaid.jpg"
+	thumbURL="thumbs/Tropical Mermaid.jpg"
+	linkURL="images/Tropical Mermaid.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Tropical Mermaid.jpg">
+    <title><![CDATA[Tropical Mermaid]]></title>
+    <caption><![CDATA[36'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/En_el_Monte.jpg"
+	thumbURL="thumbs/En_el_Monte.jpg"
+	linkURL="images/En_el_Monte.jpg"
+	linkTarget="_blank"
+	sourcePath="images/En_el_Monte.jpg">
+    <title><![CDATA[En el Monte]]></title>
+    <caption><![CDATA[24'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Tienda_de_Amigos.jpg"
+	thumbURL="thumbs/Tienda_de_Amigos.jpg"
+	linkURL="images/Tienda_de_Amigos.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Tienda_de_Amigos.jpg">
+    <title><![CDATA[Tienda de Amigos]]></title>
+    <caption><![CDATA[48'' x 48'']]></caption>
+  </image>
+  <image imageURL="images/Heart.jpg"
+	thumbURL="thumbs/Heart.jpg"
+	linkURL="images/Heart.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Heart.jpg">
+    <title><![CDATA[Heart]]></title>
+    <caption><![CDATA[24'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/La_Coladita.jpg"
+	thumbURL="thumbs/La_Coladita.jpg"
+	linkURL="images/La_Coladita.jpg"
+	linkTarget="_blank"
+	sourcePath="images/La_Coladita.JPG">
+    <title><![CDATA[La Coladita 1]]></title>
+    <caption><![CDATA[18'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/La_Coladita_2.jpg"
+	thumbURL="thumbs/La_Coladita_2.jpg"
+	linkURL="images/La_Coladita_2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/La_Coladita_2.jpg">
+    <title><![CDATA[La Coladita 2]]></title>
+    <caption><![CDATA[18'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/Rooster.jpg"
+	thumbURL="thumbs/Rooster.jpg"
+	linkURL="images/Rooster.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Rooster.jpg">
+    <title><![CDATA[Rooster]]></title>
+    <caption><![CDATA[18'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/Voy_Cuba.jpg"
+	thumbURL="thumbs/Voy_Cuba.jpg"
+	linkURL="images/Voy_Cuba.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Voy_Cuba.JPG">
+    <title><![CDATA[Voy Cuba]]></title>
+    <caption><![CDATA[18'' x 24'']]></caption>
+  </image>
+  <image imageURL="images/Tropical.jpg"
+	thumbURL="thumbs/Tropical.jpg"
+	linkURL="images/Tropical.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Tropical.jpg">
+    <title><![CDATA[Tropical Parrots]]></title>
+    <caption><![CDATA[36'' x 36'']]></caption>
   </image>
   <image imageURL="images/Cats.jpg"
 	thumbURL="thumbs/Cats.jpg"
 	linkURL="images/Cats.jpg"
-	linkTarget="_blank">
+	linkTarget="_blank"
+	sourcePath="images/Cats.jpg">
     <title><![CDATA[Cats]]></title>
+    <caption><![CDATA[12'' x 12'']]></caption>
+  </image>
+  <image imageURL="images/Tied.jpg"
+	thumbURL="thumbs/Tied.jpg"
+	linkURL="images/Tied.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Tied.JPG">
+    <title><![CDATA[Tied]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Miscommunication2.jpg"
+	thumbURL="thumbs/Miscommunication2.jpg"
+	linkURL="images/Miscommunication2.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Miscommunication2.JPG">
+    <title><![CDATA[Miscommunication]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Miscommunication.jpg"
+	thumbURL="thumbs/Miscommunication.jpg"
+	linkURL="images/Miscommunication.jpg"
+	linkTarget="_blank"
+	sourcePath="images/Miscommunication.JPG">
+    <title><![CDATA[Miscommunication]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>

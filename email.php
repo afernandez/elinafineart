@@ -2,26 +2,26 @@
 
 
 // Change this with your blog name and email address
-$the_blogname   = 'Elina Fine Art';
-$the_myemail 	= 'afernandezcmu@gmail.com';
+$the_blogname   = "Elina Fine Art";
+$the_myemail 	= "afernandezcmu@gmail.com";
+$URL		 	= "http://www.elinafineart.com";
 
-
-if (isset($_POST['email'])) {
+if (isset($_POST["email"])) {
 	error_reporting(0);	
 	$errorC = false;
 
-	$the_email 		= $_POST['email'];
-	$the_name 		= $_POST['yourname'];
-	$the_message 	= $_POST['message'];
+	$the_email 	= $_POST["email"];
+	$the_name 	= $_POST["yourname"];
+	$the_message 	= $_POST["message"];
 
-	$the_phone 		= $_POST['phone'];
-	$the_website 	= $_POST['website'];
+	$the_phone 	= $_POST["phone"];
+	$the_website 	= $_POST["website"];
 		
 	# want to add aditional fields? just add them to the form in template_contact.php,
 	# you dont have to edit this file
 		
 	//added fields that are not set explicit like the once above are combined and added before the actual message
-	$already_used = array('email','yourname','message','phone','website','myblogname','tempcode','temp_url','ajax');
+	$already_used = array("email","yourname","message","phone");
 	$attach = '';
 		
 	foreach ($_POST as $key => $field) {
@@ -49,9 +49,9 @@ if (isset($_POST['email'])) {
 	if ($errorC == false) { 	
 		$to      =  $the_myemail;
 		$subject = "New Message from " . $the_blogname;
-		$header  = 'MIME-Version: 1.0' . "\r\n";
-		$header .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-		$header .= 'From:'. $the_email  . " \r\n";
+		$header  = "IME-Version: 1.0" . "\r\n";
+		$header .= "Content-type: text/html; charset=utf-8" . "\r\n";
+		$header .= "From:". $the_email  . " \r\n";
 		
 		$message1 = nl2br($the_message);
 
@@ -73,7 +73,7 @@ if (isset($_POST['email'])) {
 			
 		if (@mail($to,$subject,$message,$header)) $send = true; else $send = false;
 			
-		if (isset($_POST['ajax'])) {
+		if (isset($_POST["ajax"])) {
 			if ($send)
 			echo '<h3>Your message has been sent!</h3><div class="confirm">
 				 <p class="textconfirm">Thank you for contacting us.<br/>We will get back to you as soon as possible.</p>
@@ -83,14 +83,17 @@ if (isset($_POST['email'])) {
 			      <p class="texterror">Due to an unknown error, your form was not submitted, please resubmit it or try later.</p>
 				  </div>'; 
 				
+		} else {
+			header ("Location: $URL");
 		}
-	}	
+	} else {
+		header ("Location: $URL" . "#Contact");
+	}
 }
 	
-	
+
 function checkmymail($mailadresse) {
-	$email_flag=preg_match("!^\w[\w|\.|\-]+@\w[\w|\.|\-]+\.[a-zA-Z]{2,4}$!",$mailadresse);
+	$email_flag=preg_match("!^\w[\w|\.|\-]+@\w[\w|\.|\-]+\.[a-zA-Z]{2,4}$!", $mailadresse);
 	return $email_flag;
 }
-
 ?>

@@ -187,10 +187,8 @@
         <li style="margin-left:480px;" id="sectionContact">
             <div class="content">
                 <div class="contact">
-					<form name="contact" action="" method="post" class="ajax_form" enctype="multipart/form-data">
+					<form id="contact" name="contact" action="email.php" method="post" class="ajax_form" enctype="multipart/form-data">
 						<div class="form">
-							<!-- TODO -->
-							<input type="hidden" id="myblogname" name="myblogname" value="Elina Fine Art" />
 							<div class="form_info">
 								<div class="email_address">
 									<div class="email_label">Your email address:*</div>
@@ -222,7 +220,7 @@
 						<!-- .form -->
 						<div class="messagebox">
 							<textarea name="message" id="message" cols="5" rows="5" class="messageinput required" onblur="if (this.value=='') this.value=this.defaultValue;" onfocus="if (this.value==this.defaultValue) this.value='';">Write your message...</textarea>
-							<a href="#" id="send"><img src="images/send.png" width="153" height="28" alt="send" /></a>
+							<a href="#" id="send" onclick="document.getElementById('contact').submit();"><img src="images/send.png" width="153" height="28" alt="send" /></a>
 						</div>
                     </form>
                 </div>
@@ -246,31 +244,6 @@
     <div class="clear"></div>
 </div> 
 <!-- .main -->
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-
-<script type="text/javascript">
-try {
-  var pageTracker = _gat._getTracker("UA-15832274-1");
-  pageTracker._trackPageview();
-} catch(err) {}
-</script>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-
-<script type="text/javascript">
-try {
-  var pageTracker = _gat._getTracker("UA-15832274-2");
-  pageTracker._trackPageview();
-} catch(err) {}</script>
 
 </body>
 </html>
